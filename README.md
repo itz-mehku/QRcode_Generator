@@ -1,5 +1,4 @@
-# QRcode_Generator
-## Mini Project 16 : QR Code Generator
+# Mini Project 16 : QR Code Generator
 This Python script generates a QR code for a given GitHub profile link using the `pyqrcode` module.
 
 --> What It Does:
